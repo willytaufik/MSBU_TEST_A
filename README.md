@@ -27,7 +27,7 @@ d.Search\
 
 # Screenshoot
 1.halaman Index\
-![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/d7d911f6-2268-4981-8dc8-c473affdf537)\
+![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/d7d911f6-2268-4981-8dc8-c473affdf537)
 
 2.Halaman Produk\
   a. halaman Pencarian\
