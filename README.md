@@ -9,6 +9,19 @@ CREATE TABLE produk (\
     jumlah_barang INT NOT NULL,\
     tanggal DATETIME NOT NULL\
 );\
+buat store procedure\
+a.add\
+![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/975b7755-7b13-4c8f-b052-480b81065021)\
+
+b.Edit\
+![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/ccbf2b85-c53d-44d0-b136-d6b339662930)\
+
+c.Delete\
+![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/01b3468d-0a97-4a3e-8cb3-04b6ed434588)\
+
+d.Search\
+![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/269aed50-94d5-42f1-8041-69bc3a440b67)\
+
 2.atau impor database yang berada di folder database\
 3.clone project \
 4.buka project dengan tools IDE anda ( disini saya pakai vs code )\
