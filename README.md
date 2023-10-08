@@ -11,13 +11,14 @@ CREATE TABLE produk (\
 );\
 buat store procedure\
 a.add\
-![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/975b7755-7b13-4c8f-b052-480b81065021)
+![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/975b7755-7b13-4c8f-b052-480b81065021)<\br>
+
 b.Edit\
-![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/ccbf2b85-c53d-44d0-b136-d6b339662930)
+![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/ccbf2b85-c53d-44d0-b136-d6b339662930)<\br>
 c.Delete\
-![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/01b3468d-0a97-4a3e-8cb3-04b6ed434588)
+![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/01b3468d-0a97-4a3e-8cb3-04b6ed434588)<\br>
 d.Search\
-![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/269aed50-94d5-42f1-8041-69bc3a440b67)
+![image](https://github.com/willytaufik/MSBU_TEST_A/assets/7637864/269aed50-94d5-42f1-8041-69bc3a440b67)<\br>
 
 2.atau impor database yang berada di folder database\
 3.clone project \
