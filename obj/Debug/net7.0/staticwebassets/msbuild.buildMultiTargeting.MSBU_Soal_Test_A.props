@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MSBU_Soal_Test_A.props" />
+</Project>

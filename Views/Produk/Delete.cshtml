@@ -1,0 +1,12 @@
+@model MSBU_Soal_Test_A.Models.ProdukModel
+
+<h2>Hapus Produk</h2>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <p>Apakah Anda yakin ingin menghapus produk ini?</p>
+        <p>Nama Barang: @Model.NamaBarang</p>
+    </div>
+    <button type="submit" class="btn btn-danger">Hapus</button>
+</form>

@@ -1,0 +1,39 @@
+@model MSBU_Soal_Test_A.Models.ProdukModel
+
+@{
+    ViewData["Title"] = "Ubah Produk";
+}
+
+<div class="container">
+    <div class="table-wrapper">
+        <div class="table-title">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h2>@ViewData["Title"]</b></h2>
+                </div>
+            </div>
+        </div>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label for="NamaBarang">Nama Barang:</label>
+        <input type="text" class="form-control" placeholder="Masukan Nama Barang" id="NamaBarang" name="NamaBarang" asp-for="NamaBarang" >
+    </div>
+    <div class="form-group">
+        <label for="KodeBarang">Kode Barang:</label>
+        <input type="text" class="form-control" id="KodeBarang" name="KodeBarang" asp-for="KodeBarang">
+    </div>
+    <div class="form-group">
+        <label for="JumlahBarang">Jumlah Barang:</label>
+        <input type="number" class="form-control" id="JumlahBarang" name="JumlahBarang" asp-for="JumlahBarang">
+    </div>
+    <div class="form-group">
+        <label for="Tanggal">Tanggal:</label>
+        <input type="datetime-local" class="form-control" id="Tanggal" name="Tanggal" asp-for="Tanggal">
+    </div>
+    <button type="submit" class="btn btn-primary">Simpan Perubahan</button>
+     <a asp-action="Index" class="btn btn-secondary">Batal</a>
+</form>
+</div>
+</div>
